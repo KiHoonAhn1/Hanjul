@@ -8,7 +8,7 @@
 
 **[서비스 바로가기](http://j5a301.p.ssafy.io/)**, **[유튜브](https://youtu.be/f_21cImpouk)**
 
-<img src="md-images/hanjulie.jpg" alt="hanjulie" style="zoom:20%;" />
+<img src="md-images/hanjulie.jpg" alt="hanjulie" style="zoom:10%;" />
 
 <img src=https://img.shields.io/badge/react-17.0.2-blue /> <img src="https://img.shields.io/badge/redux-4.1.1-blue" /><img src="https://img.shields.io/badge/node.js-14.16.0-blue" />
 
