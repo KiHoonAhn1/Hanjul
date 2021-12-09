@@ -8,6 +8,8 @@
 
 **[서비스 바로가기](http://j5a301.p.ssafy.io/)**, **[유튜브](https://youtu.be/f_21cImpouk)**
 
+<img src="md-images/hanjulie.jpg" alt="hanjulie" style="zoom:20%;" />
+
 <img src=https://img.shields.io/badge/react-17.0.2-blue /> <img src="https://img.shields.io/badge/redux-4.1.1-blue" /><img src="https://img.shields.io/badge/node.js-14.16.0-blue" />
 
 <img src="https://img.shields.io/badge/springboot-2.5.3-green" /><img src="https://img.shields.io/badge/gradle-7.1.1-green" /><img src="https://img.shields.io/badge/java-11.0.1-green" /><img src="https://img.shields.io/badge/mariadb-15.1-green" />
@@ -23,7 +25,7 @@
 
 ## 목차
 
-**[1. 기획](# 기획)**
+**[1. 기획](#기획)**
 
 **[2. 서비스 이미지](#서비스 이미지)**
 
