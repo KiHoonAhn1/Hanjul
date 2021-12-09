@@ -33,7 +33,7 @@
 
 **[4. 팀원 소개](#팀_구성_및_역할)**
 
-**[5. Getting Started](#Getting_tarted)**
+**[5. Getting Started](#Getting_started)**
 
 **[6. ETC](#ETC)**
 
